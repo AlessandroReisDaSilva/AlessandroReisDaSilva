@@ -1,5 +1,7 @@
 <h1/>Oi, tudo bem.</h1>
 <p/>O meu nome é Alessandro Reis da Silva.</p>
+<p>O que eu faço e uso:<p/>
 <p/>BackEnd: <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/TypeScript.svg">TypeScript, <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/Java.svg">JavaScript e <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/Python.svg">Python.</p>
-<p>FrontEnd: <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/React.svg">React.</p>
+<p>FrontEnd: <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/React.svg">React, <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/HTML.svg">HTML, <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/CSS.svg">CSS, TailWind e Flowbite.</p>
+<p>Library do React: <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/React.svg">React Router, <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/React.svg">React Icons, <img src="https://github.com/AlessandroReisDaSilva/Boreal-Icons/blob/main/Boreal/React.svg">React Hook Form, SweetAlert, TailWind e Flowbite.</p>
 <hr/>
